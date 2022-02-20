@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [dbo].[spi_cuenta] (Procedure)
+       [dbo].[spi_orden] (Procedure)
+       [dbo].[sp_procesaorden] (Procedure)
+
+** Supporting actions
+
+The project and target databases have different collation settings. Deployment errors might occur.
+

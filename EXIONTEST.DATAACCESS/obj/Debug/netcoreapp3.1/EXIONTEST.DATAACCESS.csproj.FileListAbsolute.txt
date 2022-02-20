@@ -1,0 +1,10 @@
+C:\Users\jpg_s\Desktop\examen\EXIONTEST\EXIONTEST.DATAACCESS\bin\Debug\netcoreapp3.1\EXIONTEST.DATAACCESS.deps.json
+C:\Users\jpg_s\Desktop\examen\EXIONTEST\EXIONTEST.DATAACCESS\bin\Debug\netcoreapp3.1\EXIONTEST.DATAACCESS.dll
+C:\Users\jpg_s\Desktop\examen\EXIONTEST\EXIONTEST.DATAACCESS\bin\Debug\netcoreapp3.1\EXIONTEST.DATAACCESS.pdb
+C:\Users\jpg_s\Desktop\examen\EXIONTEST\EXIONTEST.DATAACCESS\obj\Debug\netcoreapp3.1\EXIONTEST.DATAACCESS.csproj.AssemblyReference.cache
+C:\Users\jpg_s\Desktop\examen\EXIONTEST\EXIONTEST.DATAACCESS\obj\Debug\netcoreapp3.1\EXIONTEST.DATAACCESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpg_s\Desktop\examen\EXIONTEST\EXIONTEST.DATAACCESS\obj\Debug\netcoreapp3.1\EXIONTEST.DATAACCESS.AssemblyInfoInputs.cache
+C:\Users\jpg_s\Desktop\examen\EXIONTEST\EXIONTEST.DATAACCESS\obj\Debug\netcoreapp3.1\EXIONTEST.DATAACCESS.AssemblyInfo.cs
+C:\Users\jpg_s\Desktop\examen\EXIONTEST\EXIONTEST.DATAACCESS\obj\Debug\netcoreapp3.1\EXIONTEST.DATAACCESS.csproj.CoreCompileInputs.cache
+C:\Users\jpg_s\Desktop\examen\EXIONTEST\EXIONTEST.DATAACCESS\obj\Debug\netcoreapp3.1\EXIONTEST.DATAACCESS.dll
+C:\Users\jpg_s\Desktop\examen\EXIONTEST\EXIONTEST.DATAACCESS\obj\Debug\netcoreapp3.1\EXIONTEST.DATAACCESS.pdb
